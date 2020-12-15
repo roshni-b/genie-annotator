@@ -1,0 +1,6 @@
+type_of_cancer: mixed
+cancer_study_identifier: genie_private
+name:  AACR Project GENIE Cohort v9.5-consortium
+description: GENIE v9.5-consortium
+groups: GENIE
+short_name: genie (GENIE)
